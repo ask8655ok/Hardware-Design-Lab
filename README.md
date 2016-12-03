@@ -24,3 +24,9 @@ Module a BCD/Pingpong counter on FPGA demo board to control the 7-segment displa
 &nbsp;&nbsp;&nbsp;&nbsp;●Lab4_1: module a 2-digit pingpong counter to the FPGA on demo board<br>
 # Lab5 Ticket Machine
 Module a controller for a ticket machine on FPGA demo board as requirement<br>
+# Lab6 Ticket Machine(2)
+Modify your lab5, there will be some specific key combinations of the keyboard that represent the buttons of a ticket machine on lab5.<br>
+# Lab7 Music Player
+Design a music player that is able to play eight bars (measures) of "Chibi Maruko Chan - OP" and four bars (measures) of "Doraemon - OP"
+# Lab8 VGA Display
+Design a circuit for controlling the VGA display as requirement<br>
